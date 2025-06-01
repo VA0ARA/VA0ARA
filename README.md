@@ -9,11 +9,11 @@ Eventually, I shifted my focus to ASP.NET and transitioned my tech stack toward 
 
 ---
 
-🔭 I’m currently working on a **microservices** project  
-🌱 I’m currently learning **Microsoft Azure**  
+🔭 I’m currently working on a **Unittests** project  
+🌱 I’m currently learning **Sql server**  
 👯 I’m looking to collaborate on **.NET projects**  
-💬 Ask me about: **.NET, Clean Architecture, Microservices, DDD, CQRS**  
-📫 How to reach me: **LinkedIn** | **Email**
+💬 Ask me about: **.NET, Clean Architecture, DDD, CQRS**  
+📫 How to reach me: **https://www.linkedin.com/in/vahid-abedin-ara-b8b5991a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app** | **vahidaara@gmail.com**
 
 ---
 
