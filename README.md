@@ -9,7 +9,7 @@ Eventually, I shifted my focus to ASP.NET and transitioned my tech stack toward 
 
 ---
 
-🔭 I’m currently working on a **Unittests** project  
+🔭 I’m currently working on a **Unit-tests** project  
 🌱 I’m currently learning **Sql server**  
 👯 I’m looking to collaborate on **.NET projects**  
 💬 Ask me about: **.NET, Clean Architecture, DDD, CQRS**  
